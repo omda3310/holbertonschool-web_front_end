@@ -70,7 +70,7 @@ html{
     text-align: var(--section-header-align);
 }
 .section {
-    padding: var(--section-header-padding);
+    padding: var(--section-padding);
 }
 .section-header {
     padding: var(--section-header-padding);
