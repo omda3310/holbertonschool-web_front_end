@@ -4,23 +4,21 @@
     --colo-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
-    --text-color: color-black;
+    --text-color: var(color-black);
 }
 html {
     scroll-behavior: smooth;
 }
 body {
-    color: #161616;
+    color: var(color-black);
 }
 a {
-    color: #161616;
+    color: var(color-black);
 }
 .visually-hidden {
     display: none;
 }
-.card-category {
-    color: #D73953;
+.card-category .section-tagline {
+    color: var(color-black);
 }
-.section-tagline {
-    color: #D73953;
-}
+
