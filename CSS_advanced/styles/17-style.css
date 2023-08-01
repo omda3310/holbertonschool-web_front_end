@@ -84,7 +84,7 @@ html{
     text-align: var(--section-footer-align);
 }
 .footer {
-    padding: var(--section-footer-padding);
+    padding: var(--footer-padding);
 }
 
 body{
