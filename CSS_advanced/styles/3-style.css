@@ -18,6 +18,6 @@ a {
 .visually-hidden{
     display: none;
 }
-.card-category, .section-tagline{
+.section-tagline, .card-category{
     color: var(--color-primary);
 }
