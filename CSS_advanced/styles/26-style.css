@@ -245,7 +245,7 @@ ul.row {
   }
   .card-testimonial .cars-quote cite{
     display: block;
-    padding: 1rem;
+    padding-top: 1rem;
     color: var(--color-primary);
   }
 
