@@ -1,0 +1,9 @@
+$textColorbutton: #FF0000;
+$textColorHover: #00FF00;
+
+button {
+    color: $textColorbutton;
+    &:hover {
+        color: $textColorHover;
+    }
+}
